@@ -1,6 +1,0 @@
-plugin: community.zabbix.zabbix_inventory
-server_url: http://zabbix01p/zabbix
-add_zabbix_groups: true
-login_user: adm-dfanp
-login_password: Rugmarksvej18
-validate_certs: false
